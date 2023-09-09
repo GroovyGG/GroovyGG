@@ -1,10 +1,6 @@
-### Hi there 👋
+### Welcome to my Github Profile!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GroovyGG&show_icons=true&&theme=transparent&&rank_icon=percentile)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GroovyGG&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GroovyGG&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="GG's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GroovyGG&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GroovyGG&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="GG's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GroovyGG&hide=html&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
