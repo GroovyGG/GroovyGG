@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GroovyGG&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GroovyGG&show_icons=true&&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GroovyGG)](https://github.com/anuraghazra/github-readme-stats&hide=javascript,html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GroovyGG)](https://github.com/anuraghazra/github-readme-stats&hide=html)
 
 🔥 About Me:
 
