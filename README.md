@@ -17,7 +17,7 @@ I build web products with a focus on clean UI, practical systems, and developer-
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=GroovyGG&show_icons=true&theme=default&year=2025)
+![](https://github-readme-stats.vercel.app/api?username=GroovyGG&show_icons=true&theme=default&year=2026)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GroovyGG&layout=compact&langs_count=8)
 
 ## Weekly Coding Breakdown
