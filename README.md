@@ -27,12 +27,6 @@ I build web products with a focus on clean UI, practical systems, and developer-
 
 *Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
 
-## Language Distribution (by repo)
-
-*Top languages across my repositories.*
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GroovyGG&layout=donut&langs_count=8)
-
 ## Featured Projects
 
 - [Project A](https://github.com/GroovyGG/your-repo-a) – Short description
