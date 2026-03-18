@@ -29,6 +29,79 @@ I build web products with a focus on clean UI, practical systems, and developer-
 ## Weekly Coding Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 246 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+🌆 Daytime                127 commits         █████████████░░░░░░░░░░░░   51.63 % 
+🌃 Evening                84 commits          █████████░░░░░░░░░░░░░░░░   34.15 % 
+🌙 Night                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   58 commits          ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Tuesday                  70 commits          ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+Wednesday                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Thursday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Friday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Saturday                 35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Sunday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Swift                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Perl                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/GroovyGG/GroovyGG/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/03/2026 23:30:33 UTC
 <!--END_SECTION:waka-->
 
 *Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
