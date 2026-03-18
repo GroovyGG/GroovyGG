@@ -7,7 +7,14 @@ I build web products with a focus on clean UI, practical systems, and developer-
 
 ## Things I code with
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-848789?style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
@@ -35,8 +42,10 @@ I build web products with a focus on clean UI, practical systems, and developer-
 
 ## Currently Working On
 
-- …
-- Learning / exploring …
+- **MPF Dynamic Inventory** — Smart inventory system to support better decisions for online stores.
+- **Bad Girl** — Apple native app (Swift) to track badminton progress and improvement.
+- **Bold Girl** — Like Bad Girl, but for bouldering: track performance with recommended exercises and training to improve skills.
+- **Une Bombe** — French learning app (still in planning).
 
 ## Connect With Me
 
