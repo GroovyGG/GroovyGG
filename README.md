@@ -17,8 +17,8 @@ I build web products with a focus on clean UI, practical systems, and developer-
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=gloriazhu&show_icons=true&theme=default)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriazhu&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=GroovyGG&show_icons=true&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GroovyGG&layout=compact&langs_count=8)
 
 ## Weekly Coding Breakdown
 
@@ -31,13 +31,13 @@ I build web products with a focus on clean UI, practical systems, and developer-
 
 *Top languages across my repositories.*
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriazhu&layout=donut&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GroovyGG&layout=donut&langs_count=8)
 
 ## Featured Projects
 
-- [Project A](https://github.com/gloriazhu/your-repo-a) – Short description
-- [Project B](https://github.com/gloriazhu/your-repo-b) – Short description
-- [Project C](https://github.com/gloriazhu/your-repo-c) – Short description
+- [Project A](https://github.com/GroovyGG/your-repo-a) – Short description
+- [Project B](https://github.com/GroovyGG/your-repo-b) – Short description
+- [Project C](https://github.com/GroovyGG/your-repo-c) – Short description
 
 ## Currently Working On
 

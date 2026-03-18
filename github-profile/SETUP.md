@@ -4,7 +4,7 @@
 
 ## 1. 创建 Profile 仓库（若还没有）
 
-- 仓库名 = 你的 GitHub 用户名（例如 `gloriazhu`）
+- 仓库名 = 你的 GitHub 用户名（例如 `GroovyGG`）
 - Public，勾选 Add README，创建
 
 ## 2. 复制文件到 Profile 仓库
@@ -14,7 +14,7 @@
 
 ## 3. 修改 README 里的占位
 
-- 把 `gloriazhu` 换成你的 GitHub 用户名（若不同）
+- 把 `GroovyGG` 换成你的 GitHub 用户名（若不同）
 - 编辑 **Featured Projects**、**Currently Working On**、**Connect With Me** 里的链接和文案
 
 ## 4. 启用 WakaTime 周报（可选）
