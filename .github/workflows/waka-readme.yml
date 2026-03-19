@@ -1,5 +1,6 @@
 name: Waka Readme
 
+# Runs once per day at 00:30 UTC (~8:30 Beijing). Change cron to run more/less often.
 on:
   schedule:
     - cron: '30 0 * * *'
@@ -14,5 +15,17 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Show: My GitHub Data (hireable removed via SHOW_SHORT_INFO), I mostly code in, commit time, days of week
+          # Hide: editors, OS, code time badge, profile views badge, short info (e.g. "Opted to Hire")
           SHOW_LANGUAGE: "True"
           SHOW_PROJECTS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_OS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          # Order is fixed by the action; we only control visibility
