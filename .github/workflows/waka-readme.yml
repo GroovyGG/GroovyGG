@@ -16,7 +16,8 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # Show: My GitHub Data (hireable removed via SHOW_SHORT_INFO), I mostly code in, commit time, days of week
-          # Hide: editors, OS, code time badge, profile views badge, short info (e.g. "Opted to Hire")
+          # Hide: editors, OS, code time badge, profile views badge, short info, Timeline (LOC chart)
+          SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE: "True"
           SHOW_PROJECTS: "True"
           SHOW_TIMEZONE: "True"

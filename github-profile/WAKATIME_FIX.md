@@ -63,6 +63,7 @@ Edit **`.github/workflows/waka-readme.yml`** in this repo. Under `with:`, set an
 | `SHOW_TIMEZONE` | Time zone |
 | `SHOW_LANGUAGE_PER_REPO` | "I Mostly Code in …" (repo languages) |
 | `SHOW_SHORT_INFO` | Short fun fact line (can hide "Opted to Hire" if the action uses it here) |
+| `SHOW_LOC_CHART` | **Timeline** table (lines of code by quarter/year) — set to `"False"` to hide |
 
 **To remove "Opted to Hire" from GitHub Data:** it may come from your profile. Go to [GitHub → Settings → Profile](https://github.com/settings/profile) and uncheck **"Available for hire"** if you don’t want it shown anywhere.
 
