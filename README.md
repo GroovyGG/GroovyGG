@@ -76,16 +76,15 @@ Perl                     1 repo              ██░░░░░░░░░�
 
 *Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
 
-## Featured Projects
-
-- [Project A](https://github.com/GroovyGG/your-repo-a) – Short description
-- [Project B](https://github.com/GroovyGG/your-repo-b) – Short description
-- [Project C](https://github.com/GroovyGG/your-repo-c) – Short description
 
 ## Currently Working On
 
 - **MPF Dynamic Inventory** — Smart inventory system to support better decisions for online stores.
-- **Bad Girl** — Apple native app (Swift) to track badminton progress and improvement.
+- **Bad Girl** 
+- Stack: Swift, SwiftUI, SwiftData; HealthKit (read); CloudKit (optional sync).
+- Purpose: Log badminton training and games (sessions, targets, metrics, reflections).
+- Features: Rule-based “what to train next”; calendar (planned vs done); progress and weak areas.
+- Data: Apple Watch/Health for heart rate and activity when worn; otherwise manual entry; iCloud sync across devices.
 - **Bold Girl** — Like Bad Girl, but for bouldering: track performance with recommended exercises and training to improve skills.
 - **Une Bombe** — French learning app (still in planning).
 
