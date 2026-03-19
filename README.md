@@ -3,7 +3,7 @@
 
 # Hi, I'm Gloria 👋
 
-I build web products with a focus on clean UI, practical systems, and developer-friendly tools.
+A carbon-based builder making clean UI, practical tools, and occasional questionable commits.
 
 ## Things I code with
 
