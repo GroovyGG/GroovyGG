@@ -52,12 +52,14 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Markdown                 31 mins             ████████████████░░░░░░░░░   65.78 % 
-Swift                    16 mins             █████████░░░░░░░░░░░░░░░░   34.22 % 
+Markdown                 31 mins             ███████████████░░░░░░░░░░   60.38 % 
+Swift                    16 mins             ████████░░░░░░░░░░░░░░░░░   31.41 % 
+TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 🐱‍💻 Projects: 
-GroovyGG                 24 mins             █████████████░░░░░░░░░░░░   51.84 % 
-badgirl                  22 mins             ████████████░░░░░░░░░░░░░   48.16 % 
+GroovyGG                 24 mins             ████████████░░░░░░░░░░░░░   47.59 % 
+badgirl                  22 mins             ███████████░░░░░░░░░░░░░░   44.20 % 
+mpf-etsy                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +75,7 @@ Perl                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/03/2026 00:58:17 UTC
+ Last Updated on 24/03/2026 00:50:57 UTC
 <!--END_SECTION:waka-->
 
 *Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
