@@ -111,7 +111,6 @@ Perl                     1 repo              ██░░░░░░░░░�
   - Sentence-level progress and review logs
   
 #### BullSheet (Finnhub Monitor App)
-
 - **Stack:** Swift, SwiftUI, SwiftData; Finnhub API (free tier); Keychain (API key); Background App Refresh (light).
 - **Purpose:** Calm, consistent stock watchlist + decision journal built around *your* methodology (thesis, catalyst, zones, risk, score) instead of noisy broker UIs.
 - **Features:**
@@ -123,6 +122,19 @@ Perl                     1 repo              ██░░░░░░░░░�
   - Local alerts (price cross / % move) evaluated on refresh (not real-time)
 - **Data:** SwiftData local storage for watchlist, notes, methodology fields, score logs, cached quotes/candles; optional iCloud sync later.
 
+#### DSAha
+- **Stack:** Swift, SwiftUI, SwiftData; AI API (OpenAI / Claude); optional CloudKit sync
+- **Purpose:** To help users practice coding interview questions through structured problem solving, code writing, and interview-style explanation
+- **Features:**
+  - LeetCode-style questions as study units
+  - Anki-inspired card format for question review
+  - Three-part answer input: pseudo code, code, and thought explanation
+  - AI feedback on correctness, logic, clarity, and interview readiness
+  - Official solution database for each question
+  - Interview-friendly explanation and thinking path for each solution
+  - Progress tracking by topic, difficulty, and weak areas
+  - Review logs and confidence-based practice history
+- **Data:** SwiftData local storage for questions, attempts, feedback, progress, and review states; optional cloud sync later
 
 ## Do Not Connect With Me
 
