@@ -89,18 +89,39 @@ Perl                     1 repo              ██░░░░░░░░░�
 - **Features:** Rule-based "what to train next"; calendar (planned vs done); progress and weak areas.
 - **Data:** Apple Watch/Health for heart rate and activity when worn; otherwise manual entry; iCloud sync across devices.
 
-#### MPF Dynamic Inventory
+#### MPF Dynamic Inventory (Private)
 
-- **Smart inventory system** for online stores. Supports better stock and ordering decisions with dynamic, data-driven workflows.
+- **Stack:** Next.js, TypeScript, Prisma, PostgreSQL; Etsy API; admin auth.
+- **Purpose:** Smart inventory for online retail: unify internal stock, Etsy variant quantities, orders, and maker fulfillment so replenishment and listing updates follow the same numbers.
+- **Features:** Movement-based stock ledger; manual and order-driven changes; Etsy sync + quantity reconciliation UI; reporting hooks via sales and maker pipelines.
+- **Data:** PostgreSQL (products, inventory, movements, orders, raw Etsy listing snapshots); configurable app settings.
 
 
-#### Bold Girl
+#### Motifly
+- **Stack:** Swift, SwiftUI, SwiftData
+- **Purpose:** To help users improve French listening and spelling through dictation practice
+- **Features:**
+  - Sentence-based French dictation practice
+  - Image support for contextual memory
+  - API audio playback for correct French pronunciation
+  - User-recorded audio for custom dictation
+  - Grammar accuracy tracking for each sentence
+  - Retrieval score based on memory performance
+  - Grammar tag system for sentence grouping
+  - Sentence-level progress and review logs
+  
+#### BullSheet (Finnhub Monitor App)
 
-- **Apple native app** (Swift) for bouldering: track performance, log sessions, and get recommended exercises and training to improve climbing skills. Concept sibling to Bad Girl.
-
-#### Une Bombe
-
-- **French learning app** — currently in planning. (Details TBD.)
+- **Stack:** Swift, SwiftUI, SwiftData; Finnhub API (free tier); Keychain (API key); Background App Refresh (light).
+- **Purpose:** Calm, consistent stock watchlist + decision journal built around *your* methodology (thesis, catalyst, zones, risk, score) instead of noisy broker UIs.
+- **Features:**
+  - Watchlist dashboard with clean ticker cards (price, % change, score, last updated)
+  - Stock detail page with chart + key stats + “My Method” template
+  - Thesis tracking: catalyst date, buy/sell zones, risk note, score + sub-scores
+  - Score history log (track why score changes over time)
+  - Free-tier friendly refresh (market open/closed presets, caching, throttling, rate-limit indicator)
+  - Local alerts (price cross / % move) evaluated on refresh (not real-time)
+- **Data:** SwiftData local storage for watchlist, notes, methodology fields, score logs, cached quotes/candles; optional iCloud sync later.
 
 
 ## Do Not Connect With Me
