@@ -52,17 +52,15 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-TypeScript               27 mins             ██████████░░░░░░░░░░░░░░░   41.20 % 
-Other                    14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Bash                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Java                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Other                    57 mins             █████████████████░░░░░░░░   67.34 % 
+TypeScript               22 mins             ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-mpf-etsy                 38 mins             ██████████████░░░░░░░░░░░   57.47 % 
-Unknown Project          15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-exercises                9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-motifly                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+mpf-etsy                 1 hr 3 mins         ███████████████████░░░░░░   75.23 % 
+Unknown Project          15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+motifly                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +76,7 @@ Perl                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/04/2026 00:52:58 UTC
+ Last Updated on 10/04/2026 01:01:26 UTC
 <!--END_SECTION:waka-->
 
 *Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
