@@ -52,15 +52,14 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Other                    57 mins             █████████████████░░░░░░░░   67.34 % 
-TypeScript               22 mins             ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other                    42 mins             ████████████████░░░░░░░░░   64.97 % 
+TypeScript               22 mins             █████████░░░░░░░░░░░░░░░░   34.01 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-mpf-etsy                 1 hr 3 mins         ███████████████████░░░░░░   75.23 % 
-Unknown Project          15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-motifly                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+mpf-etsy                 1 hr 3 mins         ████████████████████████░   96.80 % 
+motifly                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +75,7 @@ Perl                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2026 01:01:26 UTC
+ Last Updated on 11/04/2026 00:58:16 UTC
 <!--END_SECTION:waka-->
 
 *Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
