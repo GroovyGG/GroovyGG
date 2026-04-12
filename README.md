@@ -52,14 +52,18 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Other                    42 mins             ████████████████░░░░░░░░░   64.97 % 
-TypeScript               22 mins             █████████░░░░░░░░░░░░░░░░   34.01 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    1 hr                ██████████████░░░░░░░░░░░   55.50 % 
+TypeScript               22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+CSV                      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Java                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🐱‍💻 Projects: 
-mpf-etsy                 1 hr 3 mins         ████████████████████████░   96.80 % 
-motifly                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+mpf-etsy                 1 hr 3 mins         ███████████████░░░░░░░░░░   58.09 % 
+motifly                  28 mins             ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+java-a6                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+paintapp                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+terminals                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +79,7 @@ Perl                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2026 00:58:16 UTC
+ Last Updated on 12/04/2026 01:05:50 UTC
 <!--END_SECTION:waka-->
 
 *Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
