@@ -52,18 +52,18 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Other                    1 hr 25 mins        ███████████████░░░░░░░░░░   59.41 % 
-CSV                      25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-TypeScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Java                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Other                    1 hr 39 mins        ██████████████░░░░░░░░░░░   57.75 % 
+CSV                      37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+TypeScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Java                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🐱‍💻 Projects: 
-mpf-etsy                 1 hr 3 mins         ███████████░░░░░░░░░░░░░░   44.20 % 
-motifly                  1 hr 2 mins         ███████████░░░░░░░░░░░░░░   43.68 % 
-java-a6                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-paintapp                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-terminals                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+motifly                  1 hr 30 mins        █████████████░░░░░░░░░░░░   52.78 % 
+mpf-etsy                 1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   37.05 % 
+java-a6                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+paintapp                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+terminals                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +79,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2026 01:06:19 UTC
+ Last Updated on 16/04/2026 01:08:15 UTC
 <!--END_SECTION:waka-->
 
 *Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
