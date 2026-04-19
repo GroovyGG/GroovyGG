@@ -52,18 +52,17 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Other                    57 mins             ████████████░░░░░░░░░░░░░   47.76 % 
-CSV                      51 mins             ███████████░░░░░░░░░░░░░░   42.22 % 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Java                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Other                    39 mins             █████████░░░░░░░░░░░░░░░░   37.57 % 
+CSV                      34 mins             ████████░░░░░░░░░░░░░░░░░   32.23 % 
+JavaScript               21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+HTML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 🐱‍💻 Projects: 
-motifly                  1 hr 43 mins        █████████████████████░░░░   85.58 % 
-java-a6                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-paintapp                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-terminals                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Downloads                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+motifly                  1 hr 17 mins        ██████████████████░░░░░░░   73.43 % 
+2026-03-11               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+houseAnimation-svg js-1  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+ajax.zip                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +78,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2026 01:00:22 UTC
+ Last Updated on 19/04/2026 01:08:09 UTC
 <!--END_SECTION:waka-->
 
 *Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
