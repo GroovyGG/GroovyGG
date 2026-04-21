@@ -28,21 +28,21 @@ A carbon-based builder making clean UI, practical tools, and occasional question
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-🌆 Daytime                141 commits         ████████████░░░░░░░░░░░░░   49.30 % 
-🌃 Evening                105 commits         █████████░░░░░░░░░░░░░░░░   36.71 % 
-🌙 Night                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+🌆 Daytime                146 commits         ████████████░░░░░░░░░░░░░   46.50 % 
+🌃 Evening                106 commits         ████████░░░░░░░░░░░░░░░░░   33.76 % 
+🌙 Night                  45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   58 commits          █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Tuesday                  71 commits          ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-Wednesday                63 commits          ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-Thursday                 19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Friday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Saturday                 41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Monday                   82 commits          ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+Tuesday                  72 commits          ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+Wednesday                64 commits          █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Thursday                 21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Friday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 ```
 
 
@@ -52,17 +52,18 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Other                    39 mins             █████████░░░░░░░░░░░░░░░░   37.57 % 
-CSV                      34 mins             ████████░░░░░░░░░░░░░░░░░   32.23 % 
-JavaScript               21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-HTML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Other                    51 mins             ████████░░░░░░░░░░░░░░░░░   32.37 % 
+CSV                      41 mins             ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Swift                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 
 🐱‍💻 Projects: 
-motifly                  1 hr 17 mins        ██████████████████░░░░░░░   73.43 % 
-2026-03-11               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-houseAnimation-svg js-1  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-ajax.zip                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+motifly                  1 hr 59 mins        ███████████████████░░░░░░   75.56 % 
+2026-03-11               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+mpf-etsy                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+houseAnimation-svg js-1  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+ajax.zip                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -70,15 +71,15 @@ ajax.zip                 5 mins              █░░░░░░░░░░�
 ```text
 JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
 HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Swift                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Swift                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Perl                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 20/04/2026 01:07:26 UTC
+ Last Updated on 21/04/2026 01:06:22 UTC
 <!--END_SECTION:waka-->
 
 *Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
