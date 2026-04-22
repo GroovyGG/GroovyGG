@@ -103,9 +103,13 @@ Perl                     1 repo              ██░░░░░░░░░�
 
 
 #### Motifly
-- **Stack:** Swift, SwiftUI, SwiftData
-- **Purpose:** To help users improve French listening and spelling through dictation practice
+- **Stack:** Swift, SwiftUI, **SwiftData** (local SQLite), **AVFoundation** TTS, bundled **CSV → import** on first launch, **UserDefaults** for dictation unit stats.
+- **Purpose:** **Motifly** is a **local-first iOS** French app: browse a seeded **dictionary by word type**, hear **French TTS**, optionally record **“Mine”**, and **practice lemmas** in short dictation drills (**English gloss → type French**). No cloud backend in the shipped client.
+
 - **Features:**
+  - **Vocabulary:** search, recent lookups, **kind-specific cards** (noun through preposition), TTS + optional Mine recording; some progress/image UI is **placeholder**.  
+  - **Dictation:** **50-word units**, **noun-only**; gloss prompt + lemma check; session score + **per-unit accuracy** stored locally.  
+  - **Home:** light shell + import notice; **Tabs:** Home · Vocabulary · Dictation.
   - Sentence-based French dictation practice
   - Image support for contextual memory
   - API audio playback for correct French pronunciation
@@ -114,7 +118,8 @@ Perl                     1 repo              ██░░░░░░░░░�
   - Retrieval score based on memory performance
   - Grammar tag system for sentence grouping
   - Sentence-level progress and review logs
-  
+
+ 
 #### BullSheet (Finnhub Monitor App)
 - **Stack:** Swift, SwiftUI, SwiftData; Finnhub API (free tier); Keychain (API key); Background App Refresh (light).
 - **Purpose:** Calm, consistent stock watchlist + decision journal built around *your* methodology (thesis, catalyst, zones, risk, score) instead of noisy broker UIs.
