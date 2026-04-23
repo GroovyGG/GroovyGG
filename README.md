@@ -28,21 +28,21 @@ A carbon-based builder making clean UI, practical tools, and occasional question
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-🌆 Daytime                163 commits         ████████████░░░░░░░░░░░░░   48.37 % 
-🌃 Evening                112 commits         ████████░░░░░░░░░░░░░░░░░   33.23 % 
-🌙 Night                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+🌆 Daytime                164 commits         ████████████░░░░░░░░░░░░░   48.52 % 
+🌃 Evening                112 commits         ████████░░░░░░░░░░░░░░░░░   33.14 % 
+🌙 Night                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   82 commits          ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-Tuesday                  95 commits          ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-Wednesday                64 commits          █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Thursday                 21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Monday                   82 commits          ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+Tuesday                  95 commits          ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+Wednesday                65 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Thursday                 21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 
 
@@ -52,18 +52,18 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Swift                    1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   39.44 % 
-Other                    34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-CSV                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Swift                    3 hrs 1 min         █████████████░░░░░░░░░░░░   50.07 % 
+CSV                      54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🐱‍💻 Projects: 
-motifly                  2 hrs 52 mins       ████████████████████░░░░░   81.74 % 
-2026-03-11               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-mpf-etsy                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-houseAnimation-svg js-1  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-ajax.zip                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+motifly                  5 hrs 17 mins       ██████████████████████░░░   87.65 % 
+2026-03-11               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+mpf-etsy                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+houseAnimation-svg js-1  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+ajax.zip                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +79,7 @@ Perl                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2026 01:03:12 UTC
+ Last Updated on 23/04/2026 01:08:35 UTC
 <!--END_SECTION:waka-->
 
 *Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
