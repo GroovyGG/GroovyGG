@@ -52,18 +52,16 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Swift                    3 hrs 1 min         ██████████████░░░░░░░░░░░   56.78 % 
-CSV                      40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Swift                    2 hrs 50 mins       ████████████████░░░░░░░░░   63.89 % 
+CSV                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🐱‍💻 Projects: 
-motifly                  5 hrs 2 mins        ████████████████████████░   94.84 % 
-mpf-etsy                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-terminals                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Downloads                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+motifly                  4 hrs 21 mins       ████████████████████████░   97.72 % 
+terminals                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +77,7 @@ Perl                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2026 01:10:51 UTC
+ Last Updated on 28/04/2026 01:12:46 UTC
 <!--END_SECTION:waka-->
 
 *Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
