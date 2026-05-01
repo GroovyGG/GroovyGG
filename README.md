@@ -57,21 +57,21 @@ A carbon-based builder making clean UI, practical tools, and occasional question
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-🌆 Daytime                197 commits         ████████████░░░░░░░░░░░░░   48.28 % 
-🌃 Evening                118 commits         ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-🌙 Night                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+🌞 Morning                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+🌆 Daytime                203 commits         ████████████░░░░░░░░░░░░░   48.92 % 
+🌃 Evening                119 commits         ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+🌙 Night                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   82 commits          █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Tuesday                  161 commits         ██████████░░░░░░░░░░░░░░░   39.46 % 
-Wednesday                69 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Thursday                 21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Monday                   82 commits          █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Tuesday                  161 commits         ██████████░░░░░░░░░░░░░░░   38.80 % 
+Wednesday                69 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Saturday                 41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 ```
 
 
@@ -81,13 +81,16 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Swift                    2 hrs 10 mins       ████████████████████░░░░░   80.16 % 
-Other                    24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-CSV                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Swift                    2 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.54 % 
+TypeScript               1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   36.76 % 
+Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🐱‍💻 Projects: 
-motifly                  2 hrs 42 mins       █████████████████████████   100.00 % 
+motifly                  2 hrs 47 mins       ███████████████░░░░░░░░░░   59.93 % 
+mpf-etsy                 1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   40.06 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,7 +106,7 @@ Perl                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2026 01:13:26 UTC
+ Last Updated on 01/05/2026 01:18:43 UTC
 <!--END_SECTION:waka-->
 
 *Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
