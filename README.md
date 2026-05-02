@@ -109,11 +109,6 @@ Perl                     1 repo              ██░░░░░░░░░�
  Last Updated on 02/05/2026 01:09:47 UTC
 <!--END_SECTION:waka-->
 
-*Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
-
-## Featured
-
-Pinned repositories on my GitHub profile highlight selected work.
 
 ## Currently working on
 
@@ -165,5 +160,5 @@ Pinned repositories on my GitHub profile highlight selected work.
 ## Connect (Please don't)
 
 - [Portfolio / Blog](#)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Email](mailto:your@email.com)
+- [LinkedIn](https://linkedin.com/in/your-profile) placeholder
+- [Email](mailto:your@email.com) placeholder
