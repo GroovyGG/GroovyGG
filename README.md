@@ -47,9 +47,6 @@ A carbon-based builder making clean UI, practical tools, and occasional question
 ![Etsy API](https://img.shields.io/badge/Etsy_API-F16521?style=flat-square&logo=etsy&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-## Language distribution
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GroovyGG&layout=compact&langs_count=8)
 
 ## Weekly Coding Breakdown
 
