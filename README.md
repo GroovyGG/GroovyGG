@@ -117,75 +117,52 @@ Pinned repositories on my GitHub profile highlight selected work.
 
 ## Currently working on
 
-#### Bad Girl
+### [Bad Girl](https://github.com/GroovyGG/bad-girl)
 
-- **Stack:** Swift, SwiftUI, SwiftData; HealthKit (read); CloudKit (optional sync).
-- **Purpose:** Log badminton training and games (sessions, targets, metrics, reflections).
-- **Features:** Rule-based "what to train next"; calendar (planned vs done); progress and weak areas.
-- **Data:** Apple Watch/Health for heart rate and activity when worn; otherwise manual entry; iCloud sync across devices.
+- **Stack:** Swift, SwiftUI, SwiftData; HealthKit (read); optional CloudKit.
+- **Purpose:** Native iOS app to log badminton training and games—sessions, targets, metrics, and reflections.
+- **Features:**
+  - Rule-based “what to train next” guidance
+  - Calendar for planned vs completed work and progress by area
+  - Health/manual inputs and optional iCloud sync across devices
 
-#### MPF Dynamic Inventory (Private)
+### [MPF Dynamic Inventory](https://github.com/GroovyGG/mpf-dynamic-inventory)
 
 - **Stack:** Next.js, TypeScript, Prisma, PostgreSQL; Etsy API; admin auth.
-- **Purpose:** Smart inventory for online retail: unify internal stock, Etsy variant quantities, orders, and maker fulfillment so replenishment and listing updates follow the same numbers.
-- **Features:** Movement-based stock ledger; manual and order-driven changes; Etsy sync + quantity reconciliation UI; reporting hooks via sales and maker pipelines.
-- **Data:** PostgreSQL (products, inventory, movements, orders, raw Etsy listing snapshots); configurable app settings.
-
-#### Motifly
-
-- **Stack:** Swift, SwiftUI, **SwiftData** (local SQLite), **AVFoundation** TTS, bundled **CSV → import** on first launch, **UserDefaults** for dictation unit stats.
-- **Purpose:** **Motifly** is a **local-first iOS** French app: browse a seeded **dictionary by word type**, hear **French TTS**, optionally record **“Mine”**, and **practice lemmas** in short dictation drills (**English gloss → type French**). No cloud backend in the shipped client.
-
+- **Purpose:** Unify internal stock, Etsy listings, orders, and maker workflows so replenishment and listing quantities stay aligned.
 - **Features:**
-  - **Vocabulary:** search, recent lookups, **kind-specific cards** (noun through preposition), TTS + optional Mine recording; some progress/image UI is **placeholder**.
-  - **Dictation:** **50-word units**, **noun-only**; gloss prompt + lemma check; session score + **per-unit accuracy** stored locally.
-  - **Home:** light shell + import notice; **Tabs:** Home · Vocabulary · Dictation.
-  - Sentence-based French dictation practice
-  - Image support for contextual memory
-  - API audio playback for correct French pronunciation
-  - User-recorded audio for custom dictation
-  - Grammar accuracy tracking for each sentence
-  - Retrieval score based on memory performance
-  - Grammar tag system for sentence grouping
-  - Sentence-level progress and review logs
+  - Movement-based stock ledger with manual and order-driven updates
+  - Etsy sync and quantity reconciliation UI
+  - Reporting hooks for sales and maker pipelines
 
-#### BullSheet (Finnhub Monitor App)
+### [Motifly](https://github.com/GroovyGG/motifly)
 
-- **Stack:** Swift, SwiftUI, SwiftData; Finnhub API (free tier); Keychain (API key); Background App Refresh (light).
-- **Purpose:** Calm, consistent stock watchlist + decision journal built around *your* methodology (thesis, catalyst, zones, risk, score) instead of noisy broker UIs.
+- **Stack:** Swift, SwiftUI, SwiftData, AVFoundation TTS; CSV seed import; UserDefaults for drill stats.
+- **Purpose:** Local-first iOS French vocabulary: dictionary by word type, TTS, optional recordings, and gloss → French dictation drills.
 - **Features:**
-  - Watchlist dashboard with clean ticker cards (price, % change, score, last updated)
-  - Stock detail page with chart + key stats + “My Method” template
-  - Thesis tracking: catalyst date, buy/sell zones, risk note, score + sub-scores
-  - Score history log (track why score changes over time)
-  - Free-tier friendly refresh (market open/closed presets, caching, throttling, rate-limit indicator)
-  - Local alerts (price cross / % move) evaluated on refresh (not real-time)
-- **Data:** SwiftData local storage for watchlist, notes, methodology fields, score logs, cached quotes/candles; optional iCloud sync later.
+  - Kind-specific vocabulary cards with search and TTS
+  - Noun-only dictation units with per-unit accuracy
+  - Tabbed shell: Home · Vocabulary · Dictation
 
-#### DSAha
+### [BullSheet](https://github.com/GroovyGG/bullsheet)
 
-- **Stack:** Swift, SwiftUI, SwiftData; AI API (OpenAI / Claude); optional CloudKit sync
-- **Purpose:** To help users practice coding interview questions through structured problem solving, code writing, and interview-style explanation
+- **Stack:** Swift, SwiftUI, SwiftData; Finnhub API; Keychain; light background refresh.
+- **Purpose:** Stock watchlist and decision journal around your own thesis, zones, risk, and score—not noisy broker defaults.
 - **Features:**
-  - LeetCode-style questions as study units
-  - Anki-inspired card format for question review
-  - Three-part answer input: pseudo code, code, and thought explanation
-  - AI feedback on correctness, logic, clarity, and interview readiness
-  - Official solution database for each question
-  - Interview-friendly explanation and thinking path for each solution
-  - Progress tracking by topic, difficulty, and weak areas
-  - Review logs and confidence-based practice history
-- **Data:** SwiftData local storage for questions, attempts, feedback, progress, and review states; optional cloud sync later
+  - Watchlist cards with price, change, score, and refresh-friendly throttling
+  - Stock detail with chart and “My Method” fields (catalyst, zones, thesis)
+  - Score history and local price-move alerts on refresh
 
-#### Bold Girl
+### [DSAha](https://github.com/GroovyGG/dsaha)
 
-- Bouldering companion (same product shape as Bad Girl): track performance, recommended exercises, and training to improve skills.
+- **Stack:** Swift, SwiftUI, SwiftData; OpenAI / Claude; optional CloudKit.
+- **Purpose:** Practice coding interview questions with structured answers and interview-style explanations.
+- **Features:**
+  - LeetCode-style units with Anki-inspired review cards
+  - Three-part answers: pseudocode, code, and explanation + AI feedback
+  - Progress by topic, difficulty, and weak areas
 
-#### Une Bombe
-
-- French learning app — planning / early exploration (see **Motifly** for the active French vocabulary build).
-
-## Connect
+## Connect (Please don't)
 
 - [Portfolio / Blog](#)
 - [LinkedIn](https://linkedin.com/in/your-profile)
