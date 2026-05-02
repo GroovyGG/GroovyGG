@@ -1,6 +1,7 @@
 name: Waka Readme
 
-# Runs once per day at 00:30 UTC (~8:30 Beijing). Change cron to run more/less often.
+# Maintenance: see .github/WAKATIME.md
+# Runs once per day at 00:30 UTC. Change cron to run more/less often.
 on:
   schedule:
     - cron: '30 0 * * *'

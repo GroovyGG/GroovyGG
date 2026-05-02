@@ -1,12 +1,8 @@
-### Welcome to my Github Profile!
-
-
 # Hi, I'm Gloria 👋
 
 A carbon-based builder making clean UI, practical tools, and occasional questionable commits.
 
 ## Things I code with
-
 
 ### Languages
 
@@ -51,56 +47,60 @@ A carbon-based builder making clean UI, practical tools, and occasional question
 ![Etsy API](https://img.shields.io/badge/Etsy_API-F16521?style=flat-square&logo=etsy&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
+## Language distribution
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GroovyGG&layout=compact&langs_count=8)
+
 ## Weekly Coding Breakdown
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-🌆 Daytime                209 commits         ███████████░░░░░░░░░░░░░░   45.14 % 
-🌃 Evening                161 commits         █████████░░░░░░░░░░░░░░░░   34.77 % 
-🌙 Night                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+🌞 Morning                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+🌆 Daytime                209 commits         ███████████░░░░░░░░░░░░░░   45.14 %
+🌃 Evening                161 commits         █████████░░░░░░░░░░░░░░░░   34.77 %
+🌙 Night                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Tuesday                  161 commits         █████████░░░░░░░░░░░░░░░░   34.77 % 
-Wednesday                69 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Friday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Saturday                 41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Monday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 %
+Tuesday                  161 commits         █████████░░░░░░░░░░░░░░░░   34.77 %
+Wednesday                69 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.90 %
+Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Friday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.47 %
+Saturday                 41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Toronto
 
-💬 Programming Languages: 
-Swift                    2 hrs 25 mins       ████████████░░░░░░░░░░░░░   49.05 % 
-TypeScript               1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   34.56 % 
-Other                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+💬 Programming Languages:
+Swift                    2 hrs 25 mins       ████████████░░░░░░░░░░░░░   49.05 %
+TypeScript               1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   34.56 %
+Other                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 
-🐱‍💻 Projects: 
-motifly                  3 hrs 5 mins        ████████████████░░░░░░░░░   62.33 % 
-mpf-etsy                 1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   37.66 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+🐱‍💻 Projects:
+motifly                  3 hrs 5 mins        ████████████████░░░░░░░░░   62.33 %
+mpf-etsy                 1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   37.66 %
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Swift                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Perl                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 %
+HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 %
+Swift                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+Perl                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
 ```
 
 
@@ -111,8 +111,11 @@ Perl                     1 repo              ██░░░░░░░░░�
 
 *Powered by [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).*
 
+## Featured
 
-## Currently Working On
+Pinned repositories on my GitHub profile highlight selected work.
+
+## Currently working on
 
 #### Bad Girl
 
@@ -128,14 +131,14 @@ Perl                     1 repo              ██░░░░░░░░░�
 - **Features:** Movement-based stock ledger; manual and order-driven changes; Etsy sync + quantity reconciliation UI; reporting hooks via sales and maker pipelines.
 - **Data:** PostgreSQL (products, inventory, movements, orders, raw Etsy listing snapshots); configurable app settings.
 
-
 #### Motifly
+
 - **Stack:** Swift, SwiftUI, **SwiftData** (local SQLite), **AVFoundation** TTS, bundled **CSV → import** on first launch, **UserDefaults** for dictation unit stats.
 - **Purpose:** **Motifly** is a **local-first iOS** French app: browse a seeded **dictionary by word type**, hear **French TTS**, optionally record **“Mine”**, and **practice lemmas** in short dictation drills (**English gloss → type French**). No cloud backend in the shipped client.
 
 - **Features:**
-  - **Vocabulary:** search, recent lookups, **kind-specific cards** (noun through preposition), TTS + optional Mine recording; some progress/image UI is **placeholder**.  
-  - **Dictation:** **50-word units**, **noun-only**; gloss prompt + lemma check; session score + **per-unit accuracy** stored locally.  
+  - **Vocabulary:** search, recent lookups, **kind-specific cards** (noun through preposition), TTS + optional Mine recording; some progress/image UI is **placeholder**.
+  - **Dictation:** **50-word units**, **noun-only**; gloss prompt + lemma check; session score + **per-unit accuracy** stored locally.
   - **Home:** light shell + import notice; **Tabs:** Home · Vocabulary · Dictation.
   - Sentence-based French dictation practice
   - Image support for contextual memory
@@ -146,8 +149,8 @@ Perl                     1 repo              ██░░░░░░░░░�
   - Grammar tag system for sentence grouping
   - Sentence-level progress and review logs
 
- 
 #### BullSheet (Finnhub Monitor App)
+
 - **Stack:** Swift, SwiftUI, SwiftData; Finnhub API (free tier); Keychain (API key); Background App Refresh (light).
 - **Purpose:** Calm, consistent stock watchlist + decision journal built around *your* methodology (thesis, catalyst, zones, risk, score) instead of noisy broker UIs.
 - **Features:**
@@ -160,6 +163,7 @@ Perl                     1 repo              ██░░░░░░░░░�
 - **Data:** SwiftData local storage for watchlist, notes, methodology fields, score logs, cached quotes/candles; optional iCloud sync later.
 
 #### DSAha
+
 - **Stack:** Swift, SwiftUI, SwiftData; AI API (OpenAI / Claude); optional CloudKit sync
 - **Purpose:** To help users practice coding interview questions through structured problem solving, code writing, and interview-style explanation
 - **Features:**
@@ -173,7 +177,15 @@ Perl                     1 repo              ██░░░░░░░░░�
   - Review logs and confidence-based practice history
 - **Data:** SwiftData local storage for questions, attempts, feedback, progress, and review states; optional cloud sync later
 
-## Do Not Connect With Me
+#### Bold Girl
+
+- Bouldering companion (same product shape as Bad Girl): track performance, recommended exercises, and training to improve skills.
+
+#### Une Bombe
+
+- French learning app — planning / early exploration (see **Motifly** for the active French vocabulary build).
+
+## Connect
 
 - [Portfolio / Blog](#)
 - [LinkedIn](https://linkedin.com/in/your-profile)
