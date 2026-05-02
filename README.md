@@ -117,7 +117,7 @@ Pinned repositories on my GitHub profile highlight selected work.
 
 ## Currently working on
 
-### [Bad Girl](https://github.com/GroovyGG/bad-girl)
+### [Bad Girl](https://github.com/GroovyGG/badgirl)
 
 - **Stack:** Swift, SwiftUI, SwiftData; HealthKit (read); optional CloudKit.
 - **Purpose:** Native iOS app to log badminton training and games—sessions, targets, metrics, and reflections.
@@ -126,7 +126,7 @@ Pinned repositories on my GitHub profile highlight selected work.
   - Calendar for planned vs completed work and progress by area
   - Health/manual inputs and optional iCloud sync across devices
 
-### [MPF Dynamic Inventory](https://github.com/GroovyGG/mpf-dynamic-inventory)
+### [MPF Dynamic Inventory](https://github.com/GroovyGG/mpf-etsy)
 
 - **Stack:** Next.js, TypeScript, Prisma, PostgreSQL; Etsy API; admin auth.
 - **Purpose:** Unify internal stock, Etsy listings, orders, and maker workflows so replenishment and listing quantities stay aligned.
