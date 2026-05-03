@@ -51,59 +51,61 @@ A carbon-based builder making clean UI, practical tools, and occasional question
 ## Weekly Coding Breakdown
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤**
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-🌆 Daytime                209 commits         ███████████░░░░░░░░░░░░░░   45.14 %
-🌃 Evening                161 commits         █████████░░░░░░░░░░░░░░░░   34.77 %
-🌙 Night                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 %
+🌞 Morning                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+🌆 Daytime                235 commits         ████████████░░░░░░░░░░░░░   47.00 % 
+🌃 Evening                172 commits         █████████░░░░░░░░░░░░░░░░   34.40 % 
+🌙 Night                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 ```
-📅 **I'm Most Productive on Tuesday**
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 %
-Tuesday                  161 commits         █████████░░░░░░░░░░░░░░░░   34.77 %
-Wednesday                69 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.90 %
-Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Friday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Saturday                 41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Monday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Tuesday                  161 commits         ████████░░░░░░░░░░░░░░░░░   32.20 % 
+Wednesday                69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Thursday                 28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Friday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Saturday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: America/Toronto
 
-💬 Programming Languages:
-Swift                    2 hrs 25 mins       ████████████░░░░░░░░░░░░░   49.05 %
-TypeScript               1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   34.56 %
-Other                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+💬 Programming Languages: 
+Swift                    5 hrs 21 mins       ████████████████░░░░░░░░░   62.58 % 
+TypeScript               1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
-🐱‍💻 Projects:
-motifly                  3 hrs 5 mins        ████████████████░░░░░░░░░   62.33 %
-mpf-etsy                 1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   37.66 %
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+🐱‍💻 Projects: 
+motifly                  6 hrs 39 mins       ███████████████████░░░░░░   77.76 % 
+mpf-etsy                 1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+plans                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 %
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 %
-Swift                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-Perl                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Swift                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Perl                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 02/05/2026 01:09:47 UTC
+ Last Updated on 03/05/2026 01:16:43 UTC
 <!--END_SECTION:waka-->
 
 
