@@ -78,18 +78,18 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Swift                    6 hrs               ██████████████░░░░░░░░░░░   56.97 % 
-TypeScript               2 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Other                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Swift                    6 hrs               ██████████████░░░░░░░░░░░   55.78 % 
+TypeScript               2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Other                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🐱‍💻 Projects: 
-motifly                  7 hrs 49 mins       ███████████████████░░░░░░   74.18 % 
-mpf-etsy                 2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-GroovyGG                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+motifly                  7 hrs 49 mins       ██████████████████░░░░░░░   72.64 % 
+mpf-etsy                 2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+GroovyGG                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+b7a8f76985f1e93e75dd2f2a31 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-b7a8f76985f1e93e75dd2f2a31 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +105,7 @@ Perl                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2026 01:14:52 UTC
+ Last Updated on 05/05/2026 01:08:26 UTC
 <!--END_SECTION:waka-->
 
 
