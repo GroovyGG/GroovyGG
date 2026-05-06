@@ -78,18 +78,18 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Swift                    6 hrs               ██████████████░░░░░░░░░░░   55.78 % 
-TypeScript               2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Other                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Swift                    6 hrs               ███████████░░░░░░░░░░░░░░   44.38 % 
+TypeScript               3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+Other                    1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🐱‍💻 Projects: 
-motifly                  7 hrs 49 mins       ██████████████████░░░░░░░   72.64 % 
-mpf-etsy                 2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-GroovyGG                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-b7a8f76985f1e93e75dd2f2a31 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+motifly                  7 hrs 49 mins       ██████████████░░░░░░░░░░░   57.79 % 
+mpf-etsy                 5 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.23 % 
+GroovyGG                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+terminals                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +105,7 @@ Perl                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2026 01:08:26 UTC
+ Last Updated on 06/05/2026 01:09:26 UTC
 <!--END_SECTION:waka-->
 
 
