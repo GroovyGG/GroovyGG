@@ -51,47 +51,6 @@ A carbon-based builder making clean UI, practical tools, and occasional question
 ## Weekly Coding Breakdown
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-🌆 Daytime                235 commits         ████████████░░░░░░░░░░░░░   47.00 % 
-🌃 Evening                172 commits         █████████░░░░░░░░░░░░░░░░   34.40 % 
-🌙 Night                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Tuesday                  161 commits         ████████░░░░░░░░░░░░░░░░░   32.20 % 
-Wednesday                69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Thursday                 28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Friday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Saturday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Toronto
-
-💬 Programming Languages: 
-TypeScript               2 hrs 14 mins       ████████████░░░░░░░░░░░░░   46.90 % 
-Markdown                 52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-JSON                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Git Config               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-
-🐱‍💻 Projects: 
-mpf-etsy                 3 hrs 3 mins        ████████████████░░░░░░░░░   63.78 % 
-personal site            43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-gloriazhu                40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-skill-creator            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -105,7 +64,7 @@ Perl                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 01:19:56 UTC
+ Last Updated on 15/05/2026 01:17:30 UTC
 <!--END_SECTION:waka-->
 
 
