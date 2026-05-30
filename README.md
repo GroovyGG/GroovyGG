@@ -51,6 +51,43 @@ A carbon-based builder making clean UI, practical tools, and occasional question
 ## Weekly Coding Breakdown
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+🌆 Daytime                235 commits         ████████████░░░░░░░░░░░░░   47.00 % 
+🌃 Evening                172 commits         █████████░░░░░░░░░░░░░░░░   34.40 % 
+🌙 Night                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Tuesday                  161 commits         ████████░░░░░░░░░░░░░░░░░   32.20 % 
+Wednesday                69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Thursday                 28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Friday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Saturday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+TypeScript               1 hr 14 mins        ████████████████████░░░░░   78.17 % 
+Bash                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+
+🐱‍💻 Projects: 
+mpf-etsy                 1 hr 35 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -64,7 +101,7 @@ Perl                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 01:25:20 UTC
+ Last Updated on 30/05/2026 01:21:21 UTC
 <!--END_SECTION:waka-->
 
 
